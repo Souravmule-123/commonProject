@@ -5,7 +5,7 @@ Background: launch the url
 
 
   @Test1
-  Scenario: To login amazon page
+  Scenario: To login Amazon Page
     Given I launch "Amazon" Application
     And I  enter the "user" and "pwd"
 
