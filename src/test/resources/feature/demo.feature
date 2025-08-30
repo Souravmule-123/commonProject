@@ -10,7 +10,7 @@ Background: launch the url
     And I  enter the "user" and "pwd"
 
   @Test2
-  Scenario Outline: to transfer the sendKey data
+  Scenario Outline: to transfer the SendKey data
     Given I launch "Amazon" Application
     When I see the home page with title "Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in"
     And I  enter the "user" and "pwd"
